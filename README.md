@@ -8,3 +8,6 @@
  ** inside the settings.py add rest_framework inside INSTALLED_APPS at the end ** <br>
  **Return to the root project root (the folder where the manage.py script is), and migrate the database:** <br>
   python manage.py migrate<br>
+  
+  **unit test and integration test related to the user login and autheticaton present in accounts\test.py
+**
